@@ -1,1 +1,3 @@
-"# Learning JS Setup from Plural Sight" 
+"# Learning JS Setup from Plural Sight"
+  this is to test editor config settings
+  another line
